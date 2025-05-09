@@ -1,6 +1,5 @@
-# Jacketify - Jacket Landing Page
-
-A responsive and stylish landing page showcasing a lightly padded, quilted jacket made from recycled polyester. Built with HTML and CSS, the project emphasizes modern design, smooth user experience, and basic interactivity.
+## Jacketify - Jacket Landing Page🧥
+A responsive and stylish landing page showcasing a lightly padded, quilted jacket made from ♻️ recycled polyester. Built with HTML & CSS, the project emphasizes modern design 🎨, smooth user experience 💻, and basic interactivity ✨.
 
 ## 🛠️ Tech Stack
 
@@ -23,6 +22,4 @@ The layout adjusts for smaller screen sizes with:
 - Full-screen background image section
 - Hover animations on CTA items
 - Mobile responsiveness
-
-## 📂 File Structure
 
