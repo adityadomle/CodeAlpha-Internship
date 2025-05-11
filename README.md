@@ -17,9 +17,9 @@ The layout adjusts for smaller screen sizes with:
 ## 🧩 Features
 
 - Modern hero section with large headline
-- Navigation with icons
+- Navigation with icons!
 - Product description and call-to-action sidebar
-- Full-screen background image section!
-- Hover animations on CTA items!
-- Mobile responsiveness!
+- Full-screen background image section
+- Hover animations on CTA items
+- Mobile responsiveness
 
