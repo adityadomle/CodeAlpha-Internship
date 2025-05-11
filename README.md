@@ -21,5 +21,5 @@ The layout adjusts for smaller screen sizes with:
 - Product description and call-to-action sidebar
 - Full-screen background image section
 - Hover animations on CTA items
-- Mobile responsiveness
+- Mobile responsiveness!
 
